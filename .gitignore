@@ -1,0 +1,3 @@
+src/vendor
+test_data
+src/config/database.yml

@@ -1,0 +1,7 @@
+# config/database.yml
+host: 'localhost'
+adapter: 'mysql2'
+encoding: utf8
+database: 'jenkins'
+username: 'root'
+password: ''
